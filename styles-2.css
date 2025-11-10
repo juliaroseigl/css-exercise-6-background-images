@@ -1,0 +1,16 @@
+html {
+    background-image: url("images/2-square-tile.gif");
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+.content {
+    border-top-style: none;
+    border-bottom-style: none;
+    border: 10px solid pink;
+    background-color: lavenderblush;
+    padding: 10px;
+    max-width: 915px;
+    margin: 0 auto;
+    
+}

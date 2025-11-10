@@ -1,0 +1,26 @@
+html{
+    background-color: antiquewhite;
+}
+
+.banner{
+    background-image: url("images/3-fruit.jpg");
+    height: 300px;
+
+}
+
+.content {
+    max-width: 915px;
+    margin: 0 auto;
+    background-color: pink;
+    border-left: 10px solid palevioletred;
+    border-right: 10px solid palevioletred;
+
+}
+
+.site-id{
+    text-align: center;
+    background-color:rgb(250, 235, 215, 50%);
+    border-top: 4px solid black;
+    padding: 20px;
+    margin: 0;
+}

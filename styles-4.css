@@ -1,0 +1,16 @@
+.banner {
+    background-color: goldenrod;
+    background-image: url("images/4-uwm-hero.jpg");
+    padding-bottom: 400px;
+    background-position: center bottom;
+    background-repeat: no-repeat;
+}
+
+.main{
+    background-color: beige;
+}
+
+.colophon {
+    background-color: goldenrod;
+    padding: 20px;
+}
